@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-gateway-zuul-filter" />
+        <module name="microservice-discovery-eureka" />
+        <module name="microservice-config-server" />
+        <module name="microservice-hystrix-turbine" />
+        <module name="microservice-consumer-movie-feign-with-hystrix" />
+        <module name="microservice-gateway-zuul" />
+        <module name="microservice-consumer-user" />
+        <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-consumer-movie-feign" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
