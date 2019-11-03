@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    config:
+      uri: http://user:123456@localhost:8100 #如果config有安全认证，需要填
+      profile: dev
+      label: master   #git时 ，默认是master
+      #username:user    #如果config有安全认证，需要填，优先级高
+      #password:123456  #
+  application:
+    name: user
+
+

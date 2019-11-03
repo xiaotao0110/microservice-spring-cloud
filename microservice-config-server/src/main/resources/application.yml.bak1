@@ -1,0 +1,13 @@
+server:
+  port: 8100
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xiaotao0110/profile
+          search-paths: /
+          username: xiaotao0110
+          password: 19970110xt
+          default-label: master

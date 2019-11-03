@@ -17,6 +17,9 @@
         <option value="$PROJECT_DIR$/microservice-consumer-movie-feign/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-server-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-client-eureka/pom.xml" />
       </list>
     </option>
   </component>

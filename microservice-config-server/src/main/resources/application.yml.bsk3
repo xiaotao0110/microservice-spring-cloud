@@ -1,0 +1,24 @@
+server:
+  port: 8100
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+         # search-paths: /    #仓库下的路径
+          username: xiaotao0110 #公开的仓库不需要配置
+          password: 19970110xt #公开的仓库不需要配置
+          default-label: master
+          uri: https://github.com/xiaotao0110/profile  #公共配置，如果下面都没有找到合适的，才回退到此处
+          repos:
+            simple: https://github.com/xiaotao0110/simple  #匹配应用名为simple,如simple-dev
+            clone-on-start: true
+            special:  #匹配应为包含special和dev的或者包含special和test的，如special-dev、special-abc-dev
+              pattern: special*/dev*,*special*/test*
+              uri: https://github.com/special/special
+              clone-on-start: true
+            local:  #匹配应用名包含local，在本地文件中
+              pattern: local*
+              uri: file:/home/configsvc/config-repo
+          clone-on-start: true #是否启动时从git仓库加载

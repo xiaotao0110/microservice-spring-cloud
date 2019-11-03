@@ -1,12 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11c0f3aa-69e9-4729-acea-efe2887bbdb8" name="Default Changelist" comment="" />
+    <list default="true" id="11c0f3aa-69e9-4729-acea-efe2887bbdb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/java/com/itmuch/cloud/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/java/com/itmuch/cloud/ConfigClientEurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/java/com/itmuch/cloud/ConfigClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/java/com/itmuch/cloud/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-server-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-server-eureka/src/main/java/com/itmuch/cloud/ConfigServerEurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-server-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml.bak1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml.bak3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml.bsk3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,19 +50,53 @@
         <option name="userSettingsFile" value="G:\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1T3ggk7BnM6DMUkbEOSclAqu3IK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-config-server/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-config-client-eureka/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40574712" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itmuch.cloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-client-eureka" />
+      <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-server-eureka" />
+      <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-server\src\main\resources" />
+      <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-client" />
+    </key>
+  </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -42,10 +108,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RibbonWithHystrixMovieApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigClientEurekaApplication">
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-client-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microservice-config-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-server-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,6 +210,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.FeignMovieApplication" />
+      <item itemvalue="Spring Boot.FeignWithHystrixMovieApplication" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.HystrixTurbineApplication" />
+      <item itemvalue="Spring Boot.MovieApplication" />
+      <item itemvalue="Spring Boot.RibbonMovieApplication" />
+      <item itemvalue="Spring Boot.RibbonWithHystrixMovieApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerEurekaApplication" />
+      <item itemvalue="Spring Boot.ConfigClientEurekaApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.20150273" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f199b9df" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f199b9df" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@c1419279" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f199b9df" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@5a5eb5a5" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -132,6 +264,10 @@
       <option name="presentableId" value="Default" />
       <updated>1572700495682</updated>
       <workItem from="1572700513012" duration="89000" />
+      <workItem from="1572700821658" duration="4034000" />
+      <workItem from="1572749085369" duration="1743000" />
+      <workItem from="1572750900506" duration="687000" />
+      <workItem from="1572751623052" duration="14187000" />
     </task>
     <servers />
   </component>
@@ -143,7 +279,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

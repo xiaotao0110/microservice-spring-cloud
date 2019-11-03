@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8100
+      profile: dev
+      label: master   #git时 ，默认是master
+  application:
+    name: user
+
+

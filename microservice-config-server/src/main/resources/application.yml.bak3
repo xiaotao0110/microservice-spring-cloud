@@ -1,0 +1,13 @@
+server:
+  port: 8100
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xiaotao0110/{application}  #仓库名，一般同服务名
+          search-paths: /
+          username: xiaotao0110
+          password: 19970110xt
+          default-label: master

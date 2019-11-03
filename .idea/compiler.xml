@@ -6,18 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microservice-gateway-zuul-filter" />
-        <module name="microservice-discovery-eureka" />
-        <module name="microservice-config-server" />
         <module name="microservice-hystrix-turbine" />
-        <module name="microservice-consumer-movie-feign-with-hystrix" />
-        <module name="microservice-gateway-zuul" />
+        <module name="microservice-config-client" />
         <module name="microservice-consumer-user" />
-        <module name="microservice-hystrix-dashboard" />
         <module name="microservice-consumer-movie" />
-        <module name="microservice-consumer-movie-ribbon-with-hystrix" />
-        <module name="microservice-consumer-movie-ribbon" />
         <module name="microservice-consumer-movie-feign" />
+        <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+        <module name="microservice-config-server" />
+        <module name="microservice-gateway-zuul" />
+        <module name="microservice-discovery-eureka" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-config-client-eureka" />
+        <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-config-server-eureka" />
+        <module name="microservice-gateway-zuul-filter" />
+        <module name="microservice-consumer-movie-feign-with-hystrix" />
       </profile>
     </annotationProcessing>
   </component>
