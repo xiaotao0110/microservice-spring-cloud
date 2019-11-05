@@ -4,9 +4,9 @@ spring:
       discovery:
         enabled: true #允许config server从eureka发现
         service-id: microservice-config-server-eureka #config server地址
+      profile: dev
   application:
     name: user
-
 
 eureka:
   client:

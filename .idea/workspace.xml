@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c0f3aa-69e9-4729-acea-efe2887bbdb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/java/com/itmuch/cloud/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/java/com/itmuch/cloud/ConfigClientEurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/java/com/itmuch/cloud/ConfigClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/java/com/itmuch/cloud/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-client/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-server-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-server-eureka/src/main/java/com/itmuch/cloud/ConfigServerEurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-server-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml.bak1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml.bak3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml.bsk3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-refresh/src/main/java/com/itmuch/cloud/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-refresh/src/main/java/com/itmuch/cloud/ConfigClientRefreshApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-refresh/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config-client-refresh/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-client-eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config-client-eureka/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-client-eureka/target/classes/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-config-client-eureka/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-config-client-refresh/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -85,6 +72,7 @@
       <recent name="com.itmuch.cloud" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-client-refesh" />
       <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-client-eureka" />
       <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-server-eureka" />
       <recent name="H:\GitRep\microservice-spring-cloud\microservice-config-server\src\main\resources" />
@@ -120,6 +108,13 @@
       <module name="microservice-config-client-eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientEurekaApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientRefreshApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-client-refesh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientRefreshApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,6 +220,7 @@
       <item itemvalue="Spring Boot.ConfigClientApplication" />
       <item itemvalue="Spring Boot.ConfigServerEurekaApplication" />
       <item itemvalue="Spring Boot.ConfigClientEurekaApplication" />
+      <item itemvalue="Spring Boot.ConfigClientRefreshApplication" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -235,17 +231,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f199b9df" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38ef03f9" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f199b9df" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@c1419279" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f199b9df" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@5a5eb5a5" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38ef03f9" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@abff3300" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -267,7 +258,9 @@
       <workItem from="1572700821658" duration="4034000" />
       <workItem from="1572749085369" duration="1743000" />
       <workItem from="1572750900506" duration="687000" />
-      <workItem from="1572751623052" duration="14187000" />
+      <workItem from="1572751623052" duration="16472000" />
+      <workItem from="1572780836639" duration="632000" />
+      <workItem from="1572870246081" duration="4588000" />
     </task>
     <servers />
   </component>
